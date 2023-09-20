@@ -3,6 +3,79 @@
   "meta_description": "",
   "sections": [
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2023-09-20T18:19:50.546Z",
+          "end": "",
+          "img": "/img/uploads/banner-bazar-lancamento-campanha-destaque-cumaru-xx.jpg"
+        },
+        {
+          "start": "2023-09-20T18:20:06.087Z",
+          "end": "",
+          "img": "/img/uploads/banner-bazar-lancamento-campanha-destaque-ivone-rigobello.jpg"
+        },
+        {
+          "start": "2023-09-20T18:20:18.847Z",
+          "end": "",
+          "img": "/img/uploads/banner-bazar-texto-oficial.jpg"
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/destaque-loja-bruno.jpg"
+        },
+        {
+          "img": "/img/uploads/destaque-loja-mobiles.jpg"
+        },
+        {
+          "img": "/img/uploads/template-oficial-destaque-udress.jpg"
+        },
+        {
+          "img": "/img/uploads/template-oficial-destaque-villa-bianco.jpg"
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/destaque-loja-adriana-2.jpg"
+        },
+        {
+          "img": "/img/uploads/destaque-loja-guris-2.jpg"
+        },
+        {
+          "img": "/img/uploads/destaque-cumaru-estudio.jpg"
+        },
+        {
+          "img": "/img/uploads/destaque-loja-luciano-ogura.jpg"
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/destaque-loja-ze-maria.jpg"
+        },
+        {
+          "img": "/img/uploads/destaque-loja-ana-moraes1.jpg"
+        },
+        {
+          "img": "/img/uploads/destaque-loja-sabine-1.jpg"
+        },
+        {
+          "img": "/img/uploads/destaque-loja-ivone-rigobello.jpg"
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": null,
