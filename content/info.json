@@ -1,18 +1,20 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "text": "Entregamos para todo o Brasil",
+    "title": "Envio Rápido e Seguro"
   },
   "installments": {
     "show": true,
-    "text": "Parcele sem juros"
+    "text": "nas compras a partir de R$300",
+    "title": "Parcele em até 3x sem juros no cartão"
   },
   "exchange": {
-    "show": true,
+    "show": false,
     "text": "Não gostou? A primeira troca é gratuita"
   },
   "promo": {
-    "show": true,
+    "show": false,
     "text": "Diferentes promoções ao longo do ano!"
   }
 }
