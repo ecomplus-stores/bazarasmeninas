@@ -5,8 +5,24 @@
   },
   "links_1": {
     "list_pages": true,
-    "title": "Páginas",
-    "list": []
+    "title": "Informações",
+    "list": [
+      {
+        "text": "Sobre Nós"
+      },
+      {
+        "text": "Formas de Pagamento"
+      },
+      {
+        "text": "Envios e Prazos de Entrega"
+      },
+      {
+        "text": "Trocas e Devoluções"
+      },
+      {
+        "text": "Privacidade e Segurança"
+      }
+    ]
   },
   "links_2": {
     "list_categories": true,
@@ -26,6 +42,14 @@
       "alt": "Secure connection",
       "width": 150,
       "height": 62
+    },
+    {
+      "src": "/img/uploads/googlesafebrowsing.png",
+      "alt": "Google Safe"
+    },
+    {
+      "src": "/img/uploads/nortonsafeweb.png",
+      "alt": "Norton"
     }
   ],
   "payment_methods": {
