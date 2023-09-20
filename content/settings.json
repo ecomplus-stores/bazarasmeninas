@@ -1,26 +1,26 @@
 {
-  "store_id": 51428,
-  "name": "bazarasmeninas",
   "domain": "bazarasmeninas.netlify.app",
-  "short_name": "bazarasmeninas",
-  "description": "bazarasmeninas",
-   "repository": "ecomplus-stores/bazarasmeninas",
+  "currency_symbol": "R$",
   "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
   "theme": {
-    "bootswatch": "_",
-    "custom": "_"
+    "bootswatch": "cerulean",
+    "custom": "ecom-beauty"
   },
+  "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/bazarasmeninas",
   "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "name": "Bazar As Meninas - Descubra Ofertas Incríveis na Loja Online ",
+  "short_name": "Bazar As Meninas ",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR",
+  "mini_logo": "",
+  "font_family": "Poppins",
+  "favicon": "/img/uploads/favi.svg",
   "icons_font": "_",
-  "font_family": "_"
+  "country_code": "BR",
+  "secondary_color": "#7fa56b",
+  "icon": "/img/uploads/favi.svg",
+  "store_id": 51428,
+  "description": "Bazar As Meninas Compre Online. Conexão: Ponte entre Produtores e Consumidores. Ambientes Acolhedores e Respeito em Cada Escolha. Do Atelier à Sua Casa, Juntos na Mesma Direção. Envio para Todo Brasil. ",
+  "large_icon": "/img/uploads/favi.svg"
 }
