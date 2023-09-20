@@ -24,6 +24,10 @@
       "type": "brands-carousel",
       "limit": 24,
       "offset": 0
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     }
   ]
 }
