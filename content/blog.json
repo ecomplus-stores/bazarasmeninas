@@ -13,6 +13,11 @@
     {
       "type": "blog",
       "enabled": true
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "news"
     }
   ]
 }
