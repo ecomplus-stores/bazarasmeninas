@@ -1,15 +1,15 @@
 {
   "sections": [
     {
+      "type": "document-banner",
+      "enabled": true
+    },
+    {
       "type": "breadcrumbs",
       "enabled": true
     },
     {
       "type": "page-title"
-    },
-    {
-      "type": "document-banner",
-      "enabled": true
     },
     {
       "type": "brand-retail",
@@ -18,6 +18,15 @@
     },
     {
       "type": "document-description",
+      "enabled": true
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0
+    },
+    {
+      "type": "info-bar",
       "enabled": true
     }
   ]
