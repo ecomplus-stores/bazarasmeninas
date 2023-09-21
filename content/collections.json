@@ -21,9 +21,14 @@
       "enabled": true
     },
     {
+      "type": "page-title",
+      "title": "Veja mais Expositores"
+    },
+    {
       "type": "brands-carousel",
       "limit": 24,
-      "offset": 0
+      "offset": 0,
+      "sort": "name"
     },
     {
       "type": "info-bar",
