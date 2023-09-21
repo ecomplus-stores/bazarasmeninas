@@ -86,6 +86,10 @@
       "page": 1
     },
     {
+      "type": "page-title",
+      "title": "Veja por Expositores"
+    },
+    {
       "type": "brands-carousel",
       "limit": 24,
       "offset": 0
