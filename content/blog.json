@@ -15,6 +15,20 @@
       "enabled": true
     },
     {
+      "type": "page-title",
+      "title": "CONHEÇA OS EXPOSITORES"
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 32,
+      "offset": 0,
+      "sort": "name"
+    },
+    {
+      "type": "page-title",
+      "title": "NOSSOS DESTAQUES DO MÊS"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "news"
