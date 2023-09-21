@@ -25,6 +25,10 @@
       ]
     },
     {
+      "type": "info-bar",
+      "enabled": true
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
@@ -94,10 +98,6 @@
       "limit": 32,
       "offset": 0,
       "sort": "name"
-    },
-    {
-      "type": "info-bar",
-      "enabled": true
     }
   ]
 }
