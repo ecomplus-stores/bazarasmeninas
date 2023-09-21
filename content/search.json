@@ -3,6 +3,16 @@
     {
       "type": "search-engine",
       "enabled": true
+    },
+    {
+      "type": "page-title",
+      "title": "BUSQUE POR EXPOSITORES"
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 32,
+      "offset": 0,
+      "sort": "name"
     }
   ]
 }
