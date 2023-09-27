@@ -3,8 +3,8 @@
   "currency_symbol": "R$",
   "primary_color": "#222831",
   "theme": {
-    "bootswatch": "simplex",
-    "custom": "ecom-beauty"
+    "bootswatch": "flatly",
+    "custom": "clean-gray"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/bazarasmeninas",
@@ -16,7 +16,7 @@
   "mini_logo": "",
   "font_family": "Poppins",
   "favicon": "/img/uploads/favi.svg",
-  "icons_font": "font-awesome",
+  "icons_font": "_",
   "country_code": "BR",
   "secondary_color": "#7fa56b",
   "icon": "/img/uploads/favi.svg",
