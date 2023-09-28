@@ -25,6 +25,10 @@
       ]
     },
     {
+      "type": "page-title",
+      "title": "Veja por Expositores"
+    },
+    {
       "type": "brands-carousel",
       "limit": 32,
       "offset": 0,
@@ -94,10 +98,6 @@
       "headless": false,
       "limit": 12,
       "page": 1
-    },
-    {
-      "type": "page-title",
-      "title": "Veja por Expositores"
     }
   ]
 }
