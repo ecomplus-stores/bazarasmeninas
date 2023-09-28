@@ -12,6 +12,10 @@
       "enabled": true
     },
     {
+      "type": "custom-html",
+      "html": "<center><a href=\"https://wa.me/5511992779353\" target=\"_blank\" id=\"ws_icon_chat\"><img src=\" \nhttps://bazarasmeninas.netlify.app/img/uploads/whatsapp-bazarasmeninas.png”>\n  </a></center>\n"
+    },
+    {
       "type": "brands-carousel",
       "limit": 24,
       "offset": 0
