@@ -13,6 +13,10 @@
       "enabled": true
     },
     {
+      "type": "page-title",
+      "title": "Veja por Expositores"
+    },
+    {
       "type": "brands-carousel",
       "limit": 36,
       "offset": 0,
