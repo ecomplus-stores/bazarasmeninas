@@ -9,6 +9,10 @@
       "enabled": true
     },
     {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
       "type": "brands-carousel",
       "limit": 36,
       "offset": 0,
