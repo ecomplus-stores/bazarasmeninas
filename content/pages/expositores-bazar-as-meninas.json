@@ -63,6 +63,10 @@
       "title": "Encantadoras bonecas de pano 'Os Guris' por Marília Alcantara"
     },
     {
+      "type": "page-title",
+      "title": "Veja mais na loja "
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "news"
