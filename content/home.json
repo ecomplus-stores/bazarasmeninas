@@ -25,6 +25,12 @@
       ]
     },
     {
+      "type": "brands-carousel",
+      "limit": 32,
+      "offset": 0,
+      "sort": "name"
+    },
+    {
       "type": "info-bar",
       "enabled": true
     },
@@ -92,12 +98,6 @@
     {
       "type": "page-title",
       "title": "Veja por Expositores"
-    },
-    {
-      "type": "brands-carousel",
-      "limit": 32,
-      "offset": 0,
-      "sort": "name"
     }
   ]
 }
