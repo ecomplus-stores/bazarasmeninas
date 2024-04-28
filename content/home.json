@@ -25,14 +25,14 @@
       ]
     },
     {
-      "type": "page-title",
-      "title": "Veja por Expositores"
+      "type": "custom-html",
+      "html": "<h4 class=\"products-carousel__title\">\n        \n          \n            <a href=\"https://loja.bazarasmeninas.com.br/pages/expositores-bazar-as-meninas\">\n              NAVEGUE POR EXPOSITORES\n            </a>\n          \n        \n      </h4>"
     },
     {
       "type": "brands-carousel",
-      "limit": 32,
+      "limit": 35,
       "offset": 0,
-      "sort": null
+      "sort": "name"
     },
     {
       "type": "info-bar",
