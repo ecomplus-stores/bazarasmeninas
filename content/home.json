@@ -32,7 +32,7 @@
       "type": "brands-carousel",
       "limit": 32,
       "offset": 0,
-      "sort": "name"
+      "sort": null
     },
     {
       "type": "info-bar",
