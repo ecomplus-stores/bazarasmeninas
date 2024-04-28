@@ -13,6 +13,10 @@
       "enabled": true
     },
     {
+      "type": "custom-html",
+      "html": "<h4 class=\"products-carousel__title\">\n        \n          \n                          NAVEGUE POR EXPOSITORES\n          \n          \n        \n      </h4>"
+    },
+    {
       "type": "brands-carousel",
       "limit": 36,
       "offset": 0,
@@ -20,12 +24,8 @@
     },
     {
       "type": "dynamic-showcase",
-      "load_more": true,
+      "load_more": false,
       "sort": "news"
-    },
-    {
-      "type": "custom-html",
-      "html": "<h4 class=\"products-carousel__title\">\n        \n          \n                          NAVEGUE POR EXPOSITORES\n          \n          \n        \n      </h4>"
     }
   ]
 }
