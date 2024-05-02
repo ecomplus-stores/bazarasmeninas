@@ -26,6 +26,41 @@
       "type": "banners-grid",
       "banners": [
         {
+          "img": "/img/uploads/__ninfa-voadora-asas-rosadas-vitral-adriana-sappracone.webp",
+          "link": "https://loja.bazarasmeninas.com.br/adriana-sappracone/",
+          "alt": " Adriana Sappracone - Arte e Esculturas em Vitrais "
+        },
+        {
+          "img": "/img/uploads/__ana-moraes.webp",
+          "alt": "Ana Moraes - Esculturas em Arame ",
+          "link": "https://loja.bazarasmeninas.com.br/ana-moraes/"
+        },
+        {
+          "img": "/img/uploads/copo-cafe-amassado-verde-100-ml-atelie-do-ze.jpg",
+          "link": "https://loja.bazarasmeninas.com.br/ceramica-do-ze/",
+          "alt": "Ateliê do Zé - Cerâmicas Artesanais"
+        },
+        {
+          "img": "/img/uploads/__aurea-sacilotto1.webp",
+          "link": "https://loja.bazarasmeninas.com.br/aurea-sacilotto/",
+          "alt": "Áurea Sacilotto - Joías Artesanais"
+        },
+        {
+          "img": "/img/uploads/__bruno-andreoni1.webp",
+          "alt": "Bruno Andreoni - Quadros e Aquarelas ",
+          "link": "https://loja.bazarasmeninas.com.br/bruno-andreoni/"
+        },
+        {
+          "img": "/img/uploads/__cannelle-design.webp",
+          "link": "https://loja.bazarasmeninas.com.br/cannelle-design/",
+          "alt": "Cannelle Design - Peças Artesanais em Madeira"
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
           "img": "/img/uploads/__adesivos-decorativos1.webp",
           "link": "https://loja.bazarasmeninas.com.br/adesivos-decorativos/",
           "alt": "Rolos Decorativos"
@@ -48,9 +83,59 @@
       ]
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "news"
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "662336624e9909015f18ebbe:collections:Destaques do Mês:/destaques-do-mes",
+      "sort": "views",
+      "title": "Confira os destaques do mês",
+      "link": "https://loja.bazarasmeninas.com.br/destaques-do-mes"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/__bruno-andreoni1.webp",
+          "link": "https://loja.bazarasmeninas.com.br/bruno-andreoni/",
+          "alt": "Bruno Andreoni - Quadros e Aquarelas"
+        },
+        {
+          "img": "/img/uploads/__cannelle-design.webp",
+          "link": "https://loja.bazarasmeninas.com.br/cannelle-design/",
+          "alt": "Cannelle Design - Peças Originais em Madeira"
+        },
+        {
+          "img": "/img/uploads/__cumaru-estudio.webp",
+          "link": "https://loja.bazarasmeninas.com.br/cumaru-estudio/",
+          "alt": "Cumaru Estudio - Louças Vintage Divertidas"
+        },
+        {
+          "img": "/img/uploads/__favo-bioembalagem1.webp",
+          "link": "https://loja.bazarasmeninas.com.br/favo-bioembalagem/",
+          "alt": "FAVO - Bioembalagem - Sustentável para sua vida!"
+        },
+        {
+          "img": "/img/uploads/__ivone-rigobello1.webp",
+          "link": "https://loja.bazarasmeninas.com.br/ivone-rigobello/",
+          "alt": "Ivone Rigobello - Tapetes de Juta Originais "
+        },
+        {
+          "img": "/img/uploads/_ja-fui.webp",
+          "link": "https://loja.bazarasmeninas.com.br/ja-fui/",
+          "alt": " Já Fui... - Arte em Vidro Reciclado "
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "650b42d92cd6b65959563a19:categories:Objetos e Decoração:/objetos-decoracao",
+      "sort": "news",
+      "title": "Casa e Décor ",
+      "link": "https://loja.bazarasmeninas.com.br/objetos-decoracao/"
     }
   ]
 }
