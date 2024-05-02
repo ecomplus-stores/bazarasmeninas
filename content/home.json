@@ -8,19 +8,22 @@
       "full_width": true,
       "slides": [
         {
-          "start": "2023-09-20T18:19:50.546Z",
+          "start": "2023-09-20T18:20:18.847Z",
           "end": "",
-          "img": "/img/uploads/banner-bazar-lancamento-campanha-destaque-cumaru-xx.jpg"
+          "img": "/img/uploads/banner-bazar-texto-oficial.jpg",
+          "link": "https://loja.bazarasmeninas.com.br/pages/expositores-bazar-as-meninas"
         },
         {
           "start": "2023-09-20T18:20:06.087Z",
           "end": "",
-          "img": "/img/uploads/banner-bazar-lancamento-campanha-destaque-ivone-rigobello.jpg"
+          "img": "/img/uploads/banner-bazar-lancamento-campanha-destaque-ivone-rigobello.jpg",
+          "link": "https://loja.bazarasmeninas.com.br/utilitarios/"
         },
         {
-          "start": "2023-09-20T18:20:18.847Z",
+          "start": "2023-09-20T18:19:50.546Z",
           "end": "",
-          "img": "/img/uploads/banner-bazar-texto-oficial.jpg"
+          "img": "/img/uploads/banner-bazar-lancamento-campanha-destaque-cumaru-xx.jpg",
+          "link": "https://loja.bazarasmeninas.com.br/ceramicas-artesanais"
         }
       ]
     },
@@ -32,7 +35,7 @@
       "type": "brands-carousel",
       "limit": 35,
       "offset": 0,
-      "sort": "name"
+      "sort": null
     },
     {
       "type": "info-bar",
@@ -40,11 +43,11 @@
     },
     {
       "page": 1,
-      "title": "NOSSOS DESTAQUES DO MÊS",
+      "title": "Nossos destaques para mês de Maio",
       "shuffle": true,
       "headless": false,
       "type": "collection-shelf",
-      "link": "https://bazarasmeninas.netlify.app/destaques-do-mes",
+      "link": "https://loja.bazarasmeninas.com.br/destaques-do-mes",
       "limit": 12,
       "collection_id": "662336624e9909015f18ebbe:collections:Destaques do Mês:/destaques-do-mes",
       "sort": "news"
@@ -56,7 +59,7 @@
       "page": 1,
       "collection_id": "650b42d92cd6b65959563a19:categories:Objetos e Decoração:/objetos-decoracao",
       "sort": "news",
-      "link": "https://bazarasmeninas.netlify.app/objetos-decoracao",
+      "link": "https://loja.bazarasmeninas.com.br/objetos-decoracao",
       "title": "Decoração"
     },
     {
@@ -64,10 +67,20 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "650b437a2cd6b65959563b6a:categories:Moda e Acessórios:/moda",
+      "collection_id": "662df0fcee85900185eece69:categories:Cerâmica e Louças:/ceramicas-artesanais",
+      "sort": "views",
+      "link": "https://loja.bazarasmeninas.com.br/ceramicas-artesanais",
+      "title": "Cerâmicas e Louças Artesanais "
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "650b45f92cd6b65959564325:categories:Jóias:/joias/",
       "sort": "news",
-      "link": "https://bazarasmeninas.netlify.app/moda",
-      "title": "Moda e Acessórios"
+      "link": "https://loja.bazarasmeninas.com.br/moda",
+      "title": "Jóias e Bijoux Artesanais"
     },
     {
       "type": "collection-shelf",
@@ -76,17 +89,17 @@
       "page": 1,
       "collection_id": "650b3eaf2cd6b65959562ee2:categories:Bem Estar:/bem-estar",
       "sort": "news",
-      "link": "https://bazarasmeninas.netlify.app/bem-estar",
-      "title": "Presentes para Bem Estar - Autocuidado"
+      "link": "https://loja.bazarasmeninas.com.br/bem-estar",
+      "title": "Carinho e Cuidado - Presentes para Bem Estar "
     },
     {
       "type": "page-title",
-      "title": "Mais da loja "
+      "title": "Presentes Manuais e Afetivos  Mais da loja "
     },
     {
       "type": "dynamic-showcase",
       "load_more": false,
-      "sort": "news"
+      "sort": "views"
     }
   ]
 }
