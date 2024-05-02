@@ -58,31 +58,6 @@
       ]
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/__adesivos-decorativos1.webp",
-          "link": "https://loja.bazarasmeninas.com.br/adesivos-decorativos/",
-          "alt": "Rolos Decorativos"
-        },
-        {
-          "img": "/img/uploads/__ana-moraes.webp",
-          "link": "https://loja.bazarasmeninas.com.br/ana_moraes",
-          "alt": "Ana Moraes - Arte e Escultura em Arames"
-        },
-        {
-          "img": "/img/uploads/__atelier-sabine-van-rooij11.webp",
-          "link": "https://loja.bazarasmeninas.com.br/atelier-sabine-van-rooij/",
-          "alt": "Atelier Sabine Van Rooij - Peças Pintadas a Mão"
-        },
-        {
-          "img": "/img/uploads/__aurea-sacilotto1.webp",
-          "link": "https://loja.bazarasmeninas.com.br/aurea-sacilotto/",
-          "alt": "Aurea Sacilotto - Jóias Artesanais"
-        }
-      ]
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
@@ -95,16 +70,6 @@
     {
       "type": "banners-grid",
       "banners": [
-        {
-          "img": "/img/uploads/__bruno-andreoni1.webp",
-          "link": "https://loja.bazarasmeninas.com.br/bruno-andreoni/",
-          "alt": "Bruno Andreoni - Quadros e Aquarelas"
-        },
-        {
-          "img": "/img/uploads/__cannelle-design.webp",
-          "link": "https://loja.bazarasmeninas.com.br/cannelle-design/",
-          "alt": "Cannelle Design - Peças Originais em Madeira"
-        },
         {
           "img": "/img/uploads/__cumaru-estudio.webp",
           "link": "https://loja.bazarasmeninas.com.br/cumaru-estudio/",
@@ -124,6 +89,16 @@
           "img": "/img/uploads/_ja-fui.webp",
           "link": "https://loja.bazarasmeninas.com.br/ja-fui/",
           "alt": " Já Fui... - Arte em Vidro Reciclado "
+        },
+        {
+          "img": "/img/uploads/juliana-chagas-pinturas1.jpg",
+          "link": "https://loja.bazarasmeninas.com.br/juliana-chagas-pinturas/",
+          "alt": "Juliana Chagas Pinturas - Décor Pintadas à mão"
+        },
+        {
+          "img": "/img/uploads/__lavender-gift.webp",
+          "link": "https://loja.bazarasmeninas.com.br/lavender-gift/",
+          "alt": "Lavender Gift - Aromaterapia e Bem Estar"
         }
       ]
     },
