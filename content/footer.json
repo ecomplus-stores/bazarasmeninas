@@ -4,27 +4,32 @@
     "text": ""
   },
   "links_1": {
-    "list_pages": true,
+    "list_pages": false,
     "title": "Informações",
     "list": [
       {
-        "text": "Sobre Nós"
+        "text": "Sobre Nós",
+        "url": "https://loja.bazarasmeninas.com.br/pages/sobre-nos"
       },
       {
-        "text": "Formas de Pagamento"
+        "text": "Formas de Pagamento",
+        "url": "https://loja.bazarasmeninas.com.br/pages/pagamentos"
       },
       {
-        "text": "Envios e Prazos de Entrega"
+        "text": "Envios e Prazos de Entrega",
+        "url": "https://loja.bazarasmeninas.com.br/pages/entrega"
       },
       {
-        "text": "Trocas e Devoluções"
-      },
-      {
-        "text": "Privacidade e Segurança"
+        "text": "Trocas e Devoluções",
+        "url": "https://loja.bazarasmeninas.com.br/pages/trocas"
       },
       {
         "text": "Seja Expositor(a)",
-        "url": "/pages/seja-um-expositor"
+        "url": "https://loja.bazarasmeninas.com.br/pages/seja-um-expositor"
+      },
+      {
+        "text": "Privacidade e Segurança",
+        "url": "https://loja.bazarasmeninas.com.br/pages/privacidade"
       }
     ]
   },
