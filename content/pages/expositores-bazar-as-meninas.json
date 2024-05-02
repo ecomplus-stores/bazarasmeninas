@@ -185,6 +185,26 @@
           "alt": "Sabine Van Rooij : Tecidos Pintados à mão"
         }
       ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/__adesivos-decorativos1.webp",
+          "link": "https://loja.bazarasmeninas.com.br/adesivos-decorativos/",
+          "alt": "Rolos e Adesivos Decorativos"
+        },
+        {
+          "img": "/img/uploads/__saboaria-brasil1.webp",
+          "link": "https://loja.bazarasmeninas.com.br/saboaria-brasil/",
+          "alt": "Saboaria Brasil - Cosméticos Artesanais "
+        },
+        {
+          "img": "/img/uploads/__villa-bianco1.webp",
+          "link": "https://loja.bazarasmeninas.com.br/villa-bianco/",
+          "alt": "Villa Bianco - Tábuas em Madeiras Nobres"
+        }
+      ]
     }
   ]
 }
