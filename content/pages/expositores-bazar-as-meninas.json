@@ -178,11 +178,6 @@
           "img": "/img/uploads/_rivera-gravura1.webp",
           "link": "https://loja.bazarasmeninas.com.br/rivera-gravura/",
           "alt": "Rivera Gravura : Quadros Gravuras e Xilogravura"
-        },
-        {
-          "img": "/img/uploads/__atelier-sabine-van-rooij11.webp",
-          "link": "https://loja.bazarasmeninas.com.br/atelier-sabine-van-rooij/",
-          "alt": "Sabine Van Rooij : Tecidos Pintados à mão"
         }
       ]
     },
@@ -193,6 +188,11 @@
           "img": "/img/uploads/__adesivos-decorativos1.webp",
           "link": "https://loja.bazarasmeninas.com.br/adesivos-decorativos/",
           "alt": "Rolos e Adesivos Decorativos"
+        },
+        {
+          "img": "/img/uploads/__atelier-sabine-van-rooij11.webp",
+          "link": "https://loja.bazarasmeninas.com.br/atelier-sabine-van-rooij/",
+          "alt": "Sabine Van Rooij : Peças em Tecido Pintadas à mâo"
         },
         {
           "img": "/img/uploads/__saboaria-brasil1.webp",
