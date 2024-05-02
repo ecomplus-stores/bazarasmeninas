@@ -2,12 +2,14 @@
   "shipping": {
     "show": true,
     "text": "Entregamos para todo o Brasil",
-    "title": "Envio Rápido e Seguro"
+    "title": "Envio Rápido e Seguro",
+    "link": "https://loja.bazarasmeninas.com.br/pages/entrega"
   },
   "installments": {
     "show": true,
     "text": "nas compras a partir de R$600",
-    "title": "5% desc à vista no PIX |  Parcele em até 3x sem juros no cartão"
+    "title": "5% desc à vista no PIX |  Parcele em até 3x sem juros no cartão",
+    "link": "https://loja.bazarasmeninas.com.br/pages/pagamentos"
   },
   "exchange": {
     "show": false,
