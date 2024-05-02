@@ -111,6 +111,60 @@
       "sort": "news",
       "title": "Casa e Décor ",
       "link": "https://loja.bazarasmeninas.com.br/objetos-decoracao/"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/__lucia-loeb-papelaria.webp",
+          "link": "https://loja.bazarasmeninas.com.br/lucia-loeb-papelaria/",
+          "alt": "Lucia Loeb Papelaria - Estilo e Arte na Escrita"
+        },
+        {
+          "img": "/img/uploads/__luciano-ogura.webp",
+          "alt": "Luciano Ogura - Quadros Xilografia ",
+          "link": "https://loja.bazarasmeninas.com.br/luciano-ogura/"
+        },
+        {
+          "link": "https://loja.bazarasmeninas.com.br/mobiles-e-outras-manufaturas/",
+          "img": "/img/uploads/__mobiles-e-outras-manufaturas.webp",
+          "alt": " Móbiles e Outras Manufaturas - Décor e Arte Juntas"
+        },
+        {
+          "img": "/img/uploads/__moema-prado.webp",
+          "link": "https://loja.bazarasmeninas.com.br/moema-prado/",
+          "alt": "Moema Prado - Bijoux Artesanais "
+        },
+        {
+          "img": "/img/uploads/__nadia-kijanitza.webp",
+          "link": "https://loja.bazarasmeninas.com.br/nadia-kijanitza/",
+          "alt": "Nadia Kijanitza - Bijoux Artesanais"
+        },
+        {
+          "img": "/img/uploads/__oh-my-box-.webp",
+          "link": "https://loja.bazarasmeninas.com.br/oh-my-box/",
+          "alt": "Oh My Box: DIY - Presentes Afetivos"
+        }
+      ]
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/__os-guris1.webp",
+          "link": "https://loja.bazarasmeninas.com.br/os-guris/",
+          "alt": "Os Guris - Bonecos de Pano com Personalidade"
+        },
+        {
+          "img": "/img/uploads/__panos-u-dress.webp",
+          "link": "https://loja.bazarasmeninas.com.br/udress-panos-de-prato/",
+          "alt": "Panos U!Dress - Frases em Panos de Pratos e Jogos Americanos"
+        }
+      ]
     }
   ]
 }
