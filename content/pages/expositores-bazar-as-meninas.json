@@ -23,6 +23,16 @@
       "sort": "name"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "662336624e9909015f18ebbe:collections:Destaques do Mês:/destaques-do-mes",
+      "sort": "views",
+      "title": "Confira os destaques do mês",
+      "link": "https://loja.bazarasmeninas.com.br/destaques-do-mes"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
@@ -56,16 +66,6 @@
           "alt": "Cannelle Design - Peças Artesanais em Madeira"
         }
       ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "662336624e9909015f18ebbe:collections:Destaques do Mês:/destaques-do-mes",
-      "sort": "views",
-      "title": "Confira os destaques do mês",
-      "link": "https://loja.bazarasmeninas.com.br/destaques-do-mes"
     },
     {
       "type": "banners-grid",
