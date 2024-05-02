@@ -23,6 +23,31 @@
       "sort": "name"
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/__adesivos-decorativos1.webp",
+          "link": "https://loja.bazarasmeninas.com.br/adesivos-decorativos/",
+          "alt": "Rolos Decorativos"
+        },
+        {
+          "img": "/img/uploads/__ana-moraes.webp",
+          "link": "https://loja.bazarasmeninas.com.br/ana_moraes",
+          "alt": "Ana Moraes - Arte e Escultura em Arames"
+        },
+        {
+          "img": "/img/uploads/__atelier-sabine-van-rooij11.webp",
+          "link": "https://loja.bazarasmeninas.com.br/atelier-sabine-van-rooij/",
+          "alt": "Atelier Sabine Van Rooij - Peças Pintadas a Mão"
+        },
+        {
+          "img": "/img/uploads/__aurea-sacilotto1.webp",
+          "link": "https://loja.bazarasmeninas.com.br/aurea-sacilotto/",
+          "alt": "Aurea Sacilotto - Jóias Artesanais"
+        }
+      ]
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": false,
       "sort": "news"
