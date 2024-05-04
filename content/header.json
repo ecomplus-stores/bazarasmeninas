@@ -11,7 +11,13 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/bem-estar?Bem Estar",
+      "/objetos-decoracao?Casa e Decoração",
+      "/moda?Moda e Acessórios",
+      "/infantil/?Infantil",
+      "/papelaria/?Papelaria"
+    ],
     "random": 6,
     "full_width": true
   },
