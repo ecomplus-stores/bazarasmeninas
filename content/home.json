@@ -8,22 +8,10 @@
       "full_width": true,
       "slides": [
         {
-          "start": "2023-09-20T18:20:18.847Z",
-          "end": "",
-          "img": "/img/uploads/banner-bazar-texto-oficial.jpg",
-          "link": "https://loja.bazarasmeninas.com.br/pages/expositores-bazar-as-meninas"
-        },
-        {
           "start": "2023-09-20T18:20:06.087Z",
           "end": "",
-          "img": "/img/uploads/banner-bazar-lancamento-campanha-destaque-ivone-rigobello.jpg",
-          "link": "https://loja.bazarasmeninas.com.br/utilitarios/"
-        },
-        {
-          "start": "2023-09-20T18:19:50.546Z",
-          "end": "",
-          "img": "/img/uploads/banner-bazar-lancamento-campanha-destaque-cumaru-xx.jpg",
-          "link": "https://loja.bazarasmeninas.com.br/ceramicas-artesanais"
+          "img": "/img/uploads/__banner-loja-dia-das-maes-24.webp",
+          "link": "https://loja.bazarasmeninas.com.br/especial-dia-das-maes"
         }
       ]
     },
@@ -42,15 +30,14 @@
       "enabled": true
     },
     {
-      "page": 1,
-      "title": "Nossos destaques para mês de Maio",
-      "shuffle": true,
-      "headless": false,
       "type": "collection-shelf",
-      "link": "https://loja.bazarasmeninas.com.br/destaques-do-mes",
+      "shuffle": false,
       "limit": 12,
-      "collection_id": "662336624e9909015f18ebbe:collections:Destaques do Mês:/destaques-do-mes",
-      "sort": "news"
+      "page": 1,
+      "collection_id": "66354ff932d4fe4710ef1f86:categories:Dia das Mães:/dia-das-maes",
+      "sort": "views",
+      "link": "https://loja.bazarasmeninas.com.br/especial-dia-das-maes",
+      "title": "Nossa seleção para Encantar sua Mãe"
     },
     {
       "type": "collection-shelf",
@@ -68,9 +55,20 @@
       "limit": 12,
       "page": 1,
       "collection_id": "662df0fcee85900185eece69:categories:Cerâmica e Louças:/ceramicas-artesanais",
-      "sort": "views",
+      "sort": "news",
       "link": "https://loja.bazarasmeninas.com.br/ceramicas-artesanais",
       "title": "Cerâmicas e Louças Artesanais "
+    },
+    {
+      "page": 1,
+      "title": "Mais Destaques do Mês",
+      "shuffle": true,
+      "headless": false,
+      "type": "collection-shelf",
+      "link": "https://loja.bazarasmeninas.com.br/destaques-do-mes",
+      "limit": 12,
+      "collection_id": "662336624e9909015f18ebbe:collections:Destaques do Mês:/destaques-do-mes",
+      "sort": "news"
     },
     {
       "type": "collection-shelf",
