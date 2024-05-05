@@ -91,12 +91,12 @@
           "alt": " Já Fui... - Arte em Vidro Reciclado "
         },
         {
-          "img": "/img/uploads/juliana-chagas-pinturas1.jpg",
+          "img": "/img/uploads/__juliana-chagas-pinturas1.webp",
           "link": "https://loja.bazarasmeninas.com.br/juliana-chagas-pinturas/",
           "alt": "Juliana Chagas Pinturas - Décor Pintadas à mão"
         },
         {
-          "img": "/img/uploads/__lavender-gift.webp",
+          "img": "/img/uploads/_lavender-gift.webp",
           "link": "https://loja.bazarasmeninas.com.br/lavender-gift/",
           "alt": "Lavender Gift - Aromaterapia e Bem Estar"
         }
@@ -185,6 +185,11 @@
         {
           "img": "/img/uploads/__adesivos-decorativos1.webp",
           "link": "https://loja.bazarasmeninas.com.br/adesivos-decorativos/"
+        },
+        {
+          "img": "/img/uploads/__mundo-novo.webp",
+          "link": "https://loja.bazarasmeninas.com.br/mundo-novo",
+          "alt": "Mundo Novo"
         }
       ]
     },
@@ -205,6 +210,11 @@
           "img": "/img/uploads/__villa-bianco1.webp",
           "link": "https://loja.bazarasmeninas.com.br/villa-bianco/",
           "alt": "Villa Bianco - Tábuas em Madeiras Nobres"
+        },
+        {
+          "img": "/img/uploads/vale-do-capao.avif",
+          "alt": "Seu Antonio - Vila Capão",
+          "link": "https://loja.bazarasmeninas.com.br/seu-antonio-vila-capao"
         }
       ]
     }
