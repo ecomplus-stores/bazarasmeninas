@@ -27,26 +27,6 @@
       "sort": null
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "650b42d92cd6b65959563a19:categories:Casa e Decoração:/objetos-decoracao",
-      "sort": "news",
-      "link": "https://loja.bazarasmeninas.com.br/objetos-decoracao",
-      "title": "Decoração"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "662df0fcee85900185eece69:categories:Cerâmica e Louças:/ceramicas-artesanais",
-      "sort": "news",
-      "link": "https://loja.bazarasmeninas.com.br/ceramicas-artesanais",
-      "title": "Cerâmicas e Louças Artesanais "
-    },
-    {
       "page": 1,
       "title": "Mais Destaques do Mês",
       "shuffle": true,
@@ -55,17 +35,17 @@
       "link": "https://loja.bazarasmeninas.com.br/destaques-do-mes",
       "limit": 12,
       "collection_id": "662336624e9909015f18ebbe:collections:Destaques do Mês:/destaques-do-mes",
-      "sort": "news"
+      "sort": "views"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "650b45f92cd6b65959564325:categories:Jóias:/joias/",
-      "sort": "news",
-      "link": "https://loja.bazarasmeninas.com.br/moda",
-      "title": "Jóias e Bijoux Artesanais"
+      "collection_id": "650b42d92cd6b65959563a19:categories:Casa e Decoração:/objetos-decoracao",
+      "sort": "sales",
+      "link": "https://loja.bazarasmeninas.com.br/objetos-decoracao",
+      "title": "Decoração"
     },
     {
       "type": "collection-shelf",
@@ -73,9 +53,29 @@
       "limit": 12,
       "page": 1,
       "collection_id": "650b3eaf2cd6b65959562ee2:categories:Bem Estar:/bem-estar",
-      "sort": "news",
+      "sort": "views",
       "link": "https://loja.bazarasmeninas.com.br/bem-estar",
       "title": "Carinho e Cuidado - Presentes para Bem Estar "
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "662df0fcee85900185eece69:categories:Cerâmica e Louças:/ceramicas-artesanais",
+      "sort": "sales",
+      "link": "https://loja.bazarasmeninas.com.br/ceramicas-artesanais",
+      "title": "Cerâmicas e Louças Artesanais "
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "650b45f92cd6b65959564325:categories:Jóias:/joias/",
+      "sort": "views",
+      "link": "https://loja.bazarasmeninas.com.br/moda",
+      "title": "Jóias e Bijoux Artesanais"
     },
     {
       "type": "page-title",
