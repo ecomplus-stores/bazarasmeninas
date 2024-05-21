@@ -28,7 +28,7 @@
     },
     {
       "page": 1,
-      "title": "Mais Destaques do Mês",
+      "title": "Destaques do Mês",
       "shuffle": true,
       "headless": false,
       "type": "collection-shelf",
