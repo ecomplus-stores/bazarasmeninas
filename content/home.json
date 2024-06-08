@@ -42,7 +42,27 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "650b42d92cd6b65959563a19:categories:Casa e Decoração:/objetos-decoracao",
+      "collection_id": "662df150ee85900185eece91:categories:Jogos Americanos e Trilhos:/jogos-americanos-trilhos",
+      "sort": "lowest_price",
+      "title": "Jogos Americanos ",
+      "link": "https://loja.bazarasmeninas.com.br/jogos-americanos-trilhos"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "662df0a8ee85900185eece60:categories:Canecas e Copos:/canecas-copos",
+      "sort": "news",
+      "link": "https://loja.bazarasmeninas.com.br/ceramicas-artesanais",
+      "title": "Cerâmicas e Louças Artesanais "
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "662df195ee85900185eece9a:categories:Esculturas:/esculturas",
       "sort": "views",
       "link": "https://loja.bazarasmeninas.com.br/objetos-decoracao",
       "title": "Decoração"
@@ -56,16 +76,6 @@
       "sort": "lowest_price",
       "link": "https://loja.bazarasmeninas.com.br/bem-estar",
       "title": "Carinho e Cuidado - Presentes para Bem Estar "
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "662df0fcee85900185eece69:categories:Cerâmica e Louças:/ceramicas-artesanais",
-      "sort": "lowest_price",
-      "link": "https://loja.bazarasmeninas.com.br/ceramicas-artesanais",
-      "title": "Cerâmicas e Louças Artesanais "
     },
     {
       "type": "collection-shelf",
