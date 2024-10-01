@@ -27,6 +27,16 @@
       "sort": null
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "662df17cee85900185eece97:categories:Quadros e Móbiles:/quadros-mobiles",
+      "sort": "news",
+      "link": "https://loja.bazarasmeninas.com.br/quadros-mobiles",
+      "title": "Decoração"
+    },
+    {
       "page": 1,
       "title": "Destaques do Mês",
       "shuffle": true,
@@ -35,37 +45,17 @@
       "link": "https://loja.bazarasmeninas.com.br/destaques-do-mes",
       "limit": 12,
       "collection_id": "662336624e9909015f18ebbe:collections:Destaques do Mês:/destaques-do-mes",
-      "sort": "news"
+      "sort": "sales"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "662df0a8ee85900185eece60:categories:Canecas e Copos:/canecas-copos",
-      "sort": "sales",
-      "link": "https://loja.bazarasmeninas.com.br/ceramicas-artesanais",
-      "title": "Cerâmicas e Louças Artesanais "
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "662df150ee85900185eece91:categories:Jogos Americanos e Trilhos:/jogos-americanos-trilhos",
-      "sort": "views",
-      "title": "Jogos Americanos ",
-      "link": "https://loja.bazarasmeninas.com.br/jogos-americanos-trilhos"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "662df195ee85900185eece9a:categories:Esculturas:/esculturas",
-      "sort": "sales",
-      "link": "https://loja.bazarasmeninas.com.br/objetos-decoracao",
-      "title": "Decoração"
+      "collection_id": "650b45f92cd6b65959564325:categories:Jóias:/joias/",
+      "sort": "news",
+      "link": "https://loja.bazarasmeninas.com.br/moda",
+      "title": "Jóias e Bijoux Artesanais"
     },
     {
       "type": "collection-shelf",
@@ -73,7 +63,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "650b3eaf2cd6b65959562ee2:categories:Bem Estar:/bem-estar",
-      "sort": "sales",
+      "sort": "news",
       "link": "https://loja.bazarasmeninas.com.br/bem-estar",
       "title": "Carinho e Cuidado - Presentes para Bem Estar "
     },
@@ -82,10 +72,20 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "650b45f92cd6b65959564325:categories:Jóias:/joias/",
+      "collection_id": "662df150ee85900185eece91:categories:Jogos Americanos e Trilhos:/jogos-americanos-trilhos",
       "sort": "sales",
-      "link": "https://loja.bazarasmeninas.com.br/moda",
-      "title": "Jóias e Bijoux Artesanais"
+      "title": "Jogos Americanos ",
+      "link": "https://loja.bazarasmeninas.com.br/jogos-americanos-trilhos"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "662df0a8ee85900185eece60:categories:Canecas e Copos:/canecas-copos",
+      "sort": "views",
+      "link": "https://loja.bazarasmeninas.com.br/ceramicas-artesanais",
+      "title": "Cerâmicas e Louças Artesanais "
     },
     {
       "type": "page-title",
