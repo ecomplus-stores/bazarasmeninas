@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.dd86d56d4628d8f90642a1e900bb03cb.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/icon_384x384.dd86d56d4628d8f90642a1e900bb03cb.svg",
+      "sizes": "384x384",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/icon_192x192.dd86d56d4628d8f90642a1e900bb03cb.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/icon_128x128.dd86d56d4628d8f90642a1e900bb03cb.svg",
+      "sizes": "128x128",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/icon_96x96.dd86d56d4628d8f90642a1e900bb03cb.svg",
+      "sizes": "96x96",
+      "type": "image/svg+xml"
+    }
+  ],
+  "name": "Bazar As Meninas - Presentes Artesanais e Afetivos Online",
+  "short_name": "Bazar As Meninas ",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Bazar As Meninas Compre Online. Conexão: Ponte entre Produtores e Consumidores. Ambientes Acolhedores e Respeito em Cada Escolha. Do Atelier à Sua Casa, Juntos na Mesma Direção. Envio para Todo Brasil. ",
+  "background_color": "#ffffff",
+  "theme_color": "#222831"
+}
